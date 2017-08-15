@@ -1,0 +1,35 @@
+{
+  "name": "lol-riot-api-module",
+  "license": "MIT",
+  "description": "A wrapper for League of Legends' official API",
+  "version": "3.0.3",
+  "homepage": "https://github.com/Pupix/lol-riot-api",
+  "author": "Robert Manolea <manolea.robert@gmail.com>",
+  "contributors": [
+    {
+      "name": "Robert Manolea",
+      "email": "manolea.robert@gmail.com"
+    },
+    {
+      "name": "Daniel Sogl",
+      "email": "mytechde@outlook.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pupix/lol-riot-api-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pupix/lol-riot-api-module/issues"
+  },
+  "dependencies": {
+    "expandjs": "1.1.0",
+    "request": "2.81.0"
+  },
+  "keywords": [
+    "api",
+    "league of legends",
+    "lol",
+    "module"
+  ]
+}
