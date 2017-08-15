@@ -1,4 +1,4 @@
-# lol-riot-api
+# lol-stats-api
 [![NPM](https://nodei.co/npm/lol-stats-api-module.png)](https://nodei.co/npm/lol-stats-api-module/)
 
 [![npm version](https://badge.fury.io/js/lol-stats-api-module.svg)](https://badge.fury.io/js/lol-stats-api-module)
@@ -9,15 +9,15 @@ A wrapper module for [League of Legends' official API](https://developer.riotgam
 All methods can be either used with a `callback` method or as a `promise`
 
 ## Download
-lol-riot-api is installable via:
+lol-stats-api is installable via:
 
 - [GitHub](https://github.com/danielsogl/lol-stats-api-module) `git clone https://github.com/danielsogl/lol-stats-api-module.git`
-- [npm](https://www.npmjs.com/package/lol-stats-api-module): `npm install lol-riot-api-module`
+- [npm](https://www.npmjs.com/package/lol-stats-api-module): `npm install lol-stats-api-module`
 
 
 ## Quick example
 ```js
-const API = require('lol-riot-api-module');
+const API = require('lol-stats-api-module');
 const api = new API({
         key: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
         region: 'euw'
