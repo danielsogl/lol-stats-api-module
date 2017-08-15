@@ -6,7 +6,7 @@ All methods can be either used with a `callback` method or as a `promise`
 ## Download
 lol-riot-api is installable via:
 
-- [GitHub](https://github.com/Pupix/lol-riot-api-module) `git clone https://github.com/Pupix/lol-riot-api-module.git`
+- [GitHub](https://github.com/danielsogl/lol-stats-api-module) `git clone https://github.com/danielsogl/lol-stats-api-module.git`
 - [npm](https://www.npmjs.com/): `npm install lol-riot-api-module`
 
 
