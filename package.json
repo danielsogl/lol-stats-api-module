@@ -13,8 +13,8 @@
     "url": "https://github.com/danielsogl/lol-stats-api-module/issues"
   },
   "dependencies": {
-    "expandjs": "1.1.1",
-    "request": "2.81.0"
+    "expandjs": "^1.1.1",
+    "request": "^2.81.0"
   },
   "keywords": [
     "api",
