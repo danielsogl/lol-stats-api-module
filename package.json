@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "expandjs": "1.1.1",
-    "request": "^2.82.0"
+    "request": "^2.83.0"
   },
   "keywords": [
     "api",
